@@ -1,4 +1,4 @@
 # G10_practice
-'''.py
+```.py
 print("this is my first repository")
-'''.py
+```.py
